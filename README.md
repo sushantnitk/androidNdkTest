@@ -1,0 +1,2 @@
+# androidNdkTest
+Ndk implementation example
